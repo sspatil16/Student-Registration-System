@@ -1,0 +1,27 @@
+INTRODUCTION:
+Student ManagementSystem is software which is helpful for student as well as the school authorities.
+In the current system all the activities are done manually.It is very time consuming and costly.
+Our Student Management System deals with the various activities related to the students.
+
+
+
+PROBLEM DEFINATION:
+
+EXISTING SYSTEM OF STUDENT MANAGEMENT SYSTEM:
+In existing system records are store only manually but in proposed system we have to computarized the all info using this application.
+- Lack of security of data.
+- More man power.
+- Time consuming.
+- Consumes large volume.
+-Needs manual calculations.
+
+PROPOSED SYSTEM OF STUDENT MANAGEMENT SYSTEM:
+The aim of proposed system is to developed a system of improved facilities.
+The proposed system can overcome all the limitations of the existing system.
+The system provides proper security and reduces the manual work.
+- Security of data.
+- Proper control of the higher officials.
+- Ensure data accuracy's.
+- Minimum time required.
+- Minimize manual data entry.
+- User friendliness and interactive.
